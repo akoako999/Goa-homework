@@ -1,0 +1,4 @@
+name = input("enter your name")
+lastname = input("enter you lastname")
+age = input("enter you age")
+print(name,lastname,age)
