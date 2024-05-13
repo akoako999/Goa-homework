@@ -7,11 +7,11 @@
 #         print (i)
 
   
-nam = 0
-while nam < 51: 
-    if nam % 5 == 0:
-        print (nam)
-    nam += 1
+# nam = 0
+# while nam < 51: 
+#     if nam % 5 == 0:
+#         print (nam)
+#     nam += 1
     
         
         
